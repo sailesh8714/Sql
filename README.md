@@ -1,4 +1,4 @@
-SQL Case study required code for creating tables
+SQL Case study required code for creating tables for patients
 
 //for creating a patient table
 
